@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the version you used. Replace the author placeholder before release."
+title: "Stepwise Divisibility of Odd Power Sums: Classification, Minimal Scaling and Prime-Factor Criteria"
+version: 0.1.0
+authors:
+  - family-names: "REPLACE"
+    given-names: "AUTHOR NAME"
+abstract: >-
+  A theoretical and computational mathematics project on divisibility of
+  odd-power sums over an arithmetic progression, including a universal
+  classification and four related criteria.
+keywords:
+  - number theory
+  - odd power sums
+  - divisibility
+  - arithmetic progressions
+  - p-adic valuation
+  - Carmichael function
+  - exact integer arithmetic
+  - Python
+license: MIT
